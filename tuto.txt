@@ -1,0 +1,10 @@
+git clone https://github.com/sergioesponja/GIT360L.git
+
+usuario: sergioesponja
+pass: sergiojavier1996
+
+git status
+git add -A
+git commit -m "actualizacion"
+git push
+git pull
